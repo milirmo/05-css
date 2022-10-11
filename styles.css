@@ -1,0 +1,35 @@
+#colorfondo {
+    background-color: yellowgreen
+}
+#imagenfondo {
+    background-image: url(/assets/imagen/limones2.webp);
+}
+#color {
+    color: palevioletred;
+}
+#alinea {
+    text-align: center;
+}
+#ancho {
+    width: 10%;
+}
+#largo {
+    height: 80px;
+}
+#borde {
+    border: 1px solid black;
+}
+table {
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+td {
+    border: 2px solid black;
+}
+#display {
+
+}
+#jcontent {
+
+}
+
