@@ -26,10 +26,8 @@ table {
 td {
     border: 2px solid black;
 }
-#display {
-
+#display-jcontent {
+    display: flex;
+    justify-content: center;
+    
 }
-#jcontent {
-
-}
-
